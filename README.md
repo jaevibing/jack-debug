@@ -8,5 +8,5 @@ __languages i work in__
 
 python, js, java, c#, html
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-debug&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-debug&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-debug&layout=compact&show_icons=true&theme=radical)
