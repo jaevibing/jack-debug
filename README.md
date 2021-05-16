@@ -8,5 +8,4 @@ __languages i work in__
 
 python, js, java, c#, html
 
-### Currently working on:
-- PacketConnect
+[![jack-debugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-debug)](https://github.com/anuraghazra/github-readme-stats)
