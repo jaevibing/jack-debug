@@ -2,7 +2,7 @@
 i am a person who makes things
 
 go to my website where i display the best things ive done
-https://jack-debug.github.io/
+https://jack-debug.xyz/
 
 __languages i work in__
 
