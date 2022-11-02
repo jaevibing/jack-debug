@@ -6,7 +6,7 @@ https://jack-debug.xyz/
 
 __languages i work in__
 
-python, js, java, c#, swiftui
+python, c#, js, java, c, swiftui, go
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaevibing&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaevibing&show_icons=true&theme=onedark&hide=java)](https://github.com/anuraghazra/github-readme-stats)
